@@ -7,8 +7,9 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+web+applications;Developing+practical+Android+mobile+apps;Passionate+about+solving+real-world+problems+with+code;Aspiring+Software+Engineer+seeking+internship+opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Web+Developer;Android+App+Developer;Problem+Solver+Through+Code;Aspiring+Software+Engineer" />
 </p>
+
 
 ###
 
@@ -75,10 +76,6 @@
 </a>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/output/tech-icons.svg" width="500" />
-</div>
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -95,8 +92,8 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 ###
