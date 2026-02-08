@@ -49,69 +49,34 @@
 <p align="left">🎓 Third-year IT undergraduate at SLIIT (GPA 3.6)  <br>🚀 Full-Stack MERN developer passionate about building scalable solutions  <br>📱 Android app developer focused on user-friendly mobile experiences  <br>💼 Actively seeking internship opportunities in Software Development  <br>🌱 Continuously learning new technologies & best engineering practices  <br>🤝 Known as a fast learner and reliable team collaborator  <br>⚡ I enjoy turning real-world problems into practical software solutions</p>
 
 ###
+## 🧰 Tech Stack
 
-<h3 align="left">💻 Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,ts,html,css&perline=16" />
+    <br/>
+    <!-- Frontend / UI -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vite&perline=16" />
+    <br/>
+    <!-- Backend / DevOps -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postman,git,github,androidstudio&perline=16" />
+  </a>
+</p>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4a1d3ba-750e-4ce1-ae42-a6a5096b08e5" width="400" height="400" alt="about me gif">
+</p>
 
-###
+<!-- Fun animated gif link -->
+<a href="#">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="fun gif">
+</a>
 
-<h3 align="left">🌐 Web & Mobile Development</h3>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<h3 align="left">🗄️ Databases & Developer Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/output/tech-icons.svg" width="500" />
 </div>
 
 ###
