@@ -1,0 +1,29 @@
+name: Generate tech orb
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate orb (static image from skillicons)
+        run: |
+          mkdir -p dist
+          curl -L "https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,python,kotlin,androidstudio,html,css,bootstrap,tailwind,git,github,postman,figma,vscode&perline=8" \
+          -o dist/tech-icons.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
