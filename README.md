@@ -1,35 +1,35 @@
+<br clear="both">
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Sandani%20Chamoda%20&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=30&stroke=-&animation=twinkling&desc=IT%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descSize=20&descAlign=50&descAlignY=60"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVrY2ZtM2F3amZxbjk0b2c4ZnRwenUyczdycjN2MHVuand4bHp3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+web+applications;Developing+practical+Android+mobile+apps;Passionate+about+solving+real-world+problems+with+code;Aspiring+Software+Engineer+seeking+internship+opportunities" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SandaniChamoda&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/SandaniChamoda?label=FOLLOWERS&style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/SandaniChamoda?label=STARS&style=for-the-badge&color=0ea5e9" />
+</p>
+>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SandaniChamoda.SandaniChamoda&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋, I'm Sandani Chamoda</h1>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SandaniChamoda/SandaniChamoda/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sandani-chamoda" target="_blank">
+  <a href="www.linkedin.com/in/sandani-chamoda" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
@@ -131,7 +131,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
